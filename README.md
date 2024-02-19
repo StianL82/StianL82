@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello to you :thumbsup:
 
 My name is Stian Lilleng. Originally from Tromsø but has lived in Brønnøysund since 2001. I have now become a student at Noroff Online where I study Frontend development
 
@@ -14,6 +14,7 @@ My name is Stian Lilleng. Originally from Tromsø but has lived in Brønnøysund
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
+## Contact
 
 - 📫 How to reach me: stian.lilleng@gmail.com
 <!--
