@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Stian Lilleng. Originally from Tromsø but has lived in Brønnøysund since 2001. I have now become a student at Noroff Online where I study Frontend development
+
 <!--
 **StianL82/StianL82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
