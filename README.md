@@ -15,7 +15,7 @@ Hobbies include:
 <br>
 - 🔭 I’m currently working on my portfolio for the first year of study.
 <br>
-- 🌱 I’m currently learning everything there is to learn about being a Frontend developer
+- 🌱 I’m currently trying to learn everything I need to know about being a Frontend developer
 
 
 ## This is some of what we have been through so far
