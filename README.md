@@ -13,6 +13,11 @@ Hobbies include:
 -	Hot sauce. :hot_pepper:
 -	Good food and drink :pizza: :beers:
 <br>
+
+# If you want to se my work so far, visit my portfoliopage at:
+
+[![Portfolio](/images/logo.png)](https://portfolio1-stianlilleng.netlify.app/)
+
 - 🔭 I’m currently waiting to start the seccond year of studies.
 <br>
 - 🌱 I’m currently trying to learn everything I need to know about being a Frontend developer
