@@ -1,4 +1,4 @@
-### Hello to you :thumbsup:
+## Hello to you :thumbsup:
 
 My name is Stian Lilleng. I have now become a student at Noroff School of Technology and Digital Media, where I study Frontend development. I started in March 2023 with online studies.
 <br>
@@ -12,14 +12,13 @@ Hobbies include:
 -	Movies and series :clapper:
 -	Hot sauce. :hot_pepper:
 -	Good food and drink :pizza: :beers:
+
+### If you want to se my work so far, visit my portfoliopage at:
+
+[My Portfolio](https://portfolio1-stianlilleng.netlify.app/)
 <br>
-
-# If you want to se my work so far, visit my portfoliopage at:
-
-[![Portfolio](/images/logo.png)](https://portfolio1-stianlilleng.netlify.app/)
-
+<br>
 - 🔭 I’m currently waiting to start the seccond year of studies.
-<br>
 - 🌱 I’m currently trying to learn everything I need to know about being a Frontend developer
 
 
