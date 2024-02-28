@@ -1,6 +1,6 @@
 ### Hello to you :thumbsup:
 
-My name is Stian Lilleng. I have now become a student at Noroff School of Technology and Digital Media, where I study Frontend development.
+My name is Stian Lilleng. I have now become a student at Noroff School of Technology and Digital Media, where I study Frontend development. I started in March 2023 with online studies.
 <br>
 <br>
 I am originally from Tromsø, but I have been living in Brønnøysund since 2001. I have been working for Brønnøysundregistrene since 2003.
@@ -13,7 +13,7 @@ Hobbies include:
 -	Hot sauce. :hot_pepper:
 -	Good food and drink :pizza: :beers:
 <br>
-- 🔭 I’m currently working on my portfolio for the first year of study.
+- 🔭 I’m currently waiting to start the seccond year of studies.
 <br>
 - 🌱 I’m currently trying to learn everything I need to know about being a Frontend developer
 
