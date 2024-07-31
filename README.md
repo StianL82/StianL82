@@ -18,7 +18,7 @@ Hobbies include:
 [My Portfolio](https://portfolio1-stianlilleng.netlify.app/)
 <br>
 <br>
-- 🔭 I’m currently in the middle of the seccond year of studies.
+- 🔭 I’m currently in the middle of my second year of studies in Frontend at NOROFF
 - 🌱 I’m currently trying to learn everything I need to know about being a Frontend developer
 
 
