@@ -15,8 +15,8 @@ Hobbies include:
 
 ### If you want to see what I have worked on during my studies, visit my portfolios:
 
-- **First Year:** [My Portfolio](https://portfolio1-stianlilleng.netlify.app/)  
-- **Second Year:** [My Portfolio](https://portfolio2-stianl.netlify.app/)  
+- **First Year:** [My Portfolio 1](https://portfolio1-stianlilleng.netlify.app/)  
+- **Second Year:** [My Portfolio 2](https://portfolio2-stianl.netlify.app/)  
 
 <br>
 
