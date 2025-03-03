@@ -13,7 +13,7 @@ Hobbies include:
 - 🌶️ Hot sauce  
 - 🍕 Good food and drink 🍻  
 
-### If you want to see what I have worked on during my studies, visit my portfolios:
+### If you want to see what I have worked on during my studies at NOROFF, visit my portfolios:
 
 - **First Year:** [My Portfolio 1](https://portfolio1-stianlilleng.netlify.app/)  
 - **Second Year:** [My Portfolio 2](https://portfolio2-stianl.netlify.app/)  
