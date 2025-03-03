@@ -2,27 +2,24 @@
 
 My name is Stian Lilleng. I have completed two years of online studies in **Frontend Development** at Noroff School of Technology and Digital Media.  
 <br>
-<br>
 I am originally from Tromsø, but I have been living in Brønnøysund since 2001. I have been working for Brønnøysundregistrene since 2003.  
-
-### If you want to see what I have worked on during my studies at NOROFF, visit my portfolios:
-
-- **First Year:** [My Portfolio 1](https://portfolio1-stianlilleng.netlify.app/)  
-- **Second Year:** [My Portfolio 2](https://portfolio2-stianl.netlify.app/)  
-
-<br>
-<br>
 Hobbies include:
 - 🎮 Gaming  
 - 🎵 Music  
 - 🎬 Movies and series  
 - 🌶️ Hot sauce  
 - 🍕 Good food and drink 🍻  
-<br>
+
+
+### If you want to see what I have worked on during my studies at NOROFF, visit my portfolios:
+
+- **First Year:** [My Portfolio 1](https://portfolio1-stianlilleng.netlify.app/)  
+- **Second Year:** [My Portfolio 2](https://portfolio2-stianl.netlify.app/)  
 <br>
 
 - 🔭 I’m currently wrapping up my second year of studies in Frontend Development at Noroff.  
 - 🌱 I’m currently in a process with my employer to explore how I can apply my education in my job.  
+<br>
 
 ## This is some of what we have been through so far
 
