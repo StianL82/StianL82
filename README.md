@@ -18,7 +18,7 @@ Hobbies include:
 - 🎬 Movies and series  
 - 🌶️ Hot sauce  
 - 🍕 Good food and drink 🍻  
-
+<br>
 <br>
 
 - 🔭 I’m currently wrapping up my second year of studies in Frontend Development at Noroff.  
