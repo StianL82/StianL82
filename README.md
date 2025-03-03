@@ -4,6 +4,12 @@ My name is Stian Lilleng. I have completed two years of online studies in **Fron
 <br>
 <br>
 I am originally from Tromsø, but I have been living in Brønnøysund since 2001. I have been working for Brønnøysundregistrene since 2003.  
+
+### If you want to see what I have worked on during my studies at NOROFF, visit my portfolios:
+
+- **First Year:** [My Portfolio 1](https://portfolio1-stianlilleng.netlify.app/)  
+- **Second Year:** [My Portfolio 2](https://portfolio2-stianl.netlify.app/)  
+
 <br>
 <br>
 Hobbies include:
@@ -12,12 +18,6 @@ Hobbies include:
 - 🎬 Movies and series  
 - 🌶️ Hot sauce  
 - 🍕 Good food and drink 🍻  
-
-### If you want to see what I have worked on during my studies at NOROFF, visit my portfolios:
-
-- **First Year:** [My Portfolio 1](https://portfolio1-stianlilleng.netlify.app/)  
-- **Second Year:** [My Portfolio 2](https://portfolio2-stianl.netlify.app/)  
-
 
 <br>
 
