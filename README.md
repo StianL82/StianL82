@@ -1,26 +1,27 @@
 ## Hello to you :thumbsup:
 
-My name is Stian Lilleng. I have now become a student at Noroff School of Technology and Digital Media, where I study Frontend development. I started in March 2023 with online studies.
+My name is Stian Lilleng. I have completed two years of online studies in **Frontend Development** at Noroff School of Technology and Digital Media.  
 <br>
 <br>
-I am originally from Tromsø, but I have been living in Brønnøysund since 2001. I have been working for Brønnøysundregistrene since 2003.
+I am originally from Tromsø, but I have been living in Brønnøysund since 2001. I have been working for Brønnøysundregistrene since 2003.  
 <br>
 <br>
 Hobbies include:
--	Gaming :joystick:
--	Music :notes:
--	Movies and series :clapper:
--	Hot sauce. :hot_pepper:
--	Good food and drink :pizza: :beers:
+- 🎮 Gaming  
+- 🎵 Music  
+- 🎬 Movies and series  
+- 🌶️ Hot sauce  
+- 🍕 Good food and drink 🍻  
 
-### If you want to se my work so far, visit my portfoliopage at:
+### If you want to see what I have worked on during my studies, visit my portfolios:
 
-[My Portfolio](https://portfolio1-stianlilleng.netlify.app/)
+- **First Year:** [My Portfolio](https://portfolio1-stianlilleng.netlify.app/)  
+- **Second Year:** [My Portfolio](https://portfolio2-stianl.netlify.app/)  
+
 <br>
-<br>
-- 🔭 I’m currently in the middle of my second year of studies in Frontend at NOROFF
-- 🌱 I’m currently trying to learn everything I need to know about being a Frontend developer
 
+- 🔭 I’m currently wrapping up my second year of studies in Frontend Development at Noroff.  
+- 🌱 I’m currently in a process with my employer to explore how I can apply my education in my job.  
 
 ## This is some of what we have been through so far
 
@@ -29,6 +30,8 @@ Hobbies include:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+
 
 ## Contact
 
